@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Guesthouse Reservation Form\n"
+"POT-Creation-Date: 2017-08-18 14:29+0700\n"
+"PO-Revision-Date: 2017-08-18 14:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-guesthouse-reservation-form.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-guesthouse-reservation-form.php:130
+#: wp-guesthouse-reservation-form.php:165
+msgid "Rooms"
+msgstr "ห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:142
+msgid "Reservations"
+msgstr "การสำรองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:158
+msgctxt "Post Type General Name"
+msgid "Rooms"
+msgstr "ห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:159
+msgctxt "Post Type Singular Name"
+msgid "Room"
+msgstr "ห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:160
+#: wp-guesthouse-reservation-form.php:161
+#: wp-guesthouse-reservation-form.php:187
+msgid "Room"
+msgstr "ห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:162
+msgid "Room Archives"
+msgstr "คลังข้อมูล"
+
+#: wp-guesthouse-reservation-form.php:163
+msgid "Room Attributes"
+msgstr "คุณสมบัติของห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:164
+msgid "Parent Room"
+msgstr "รายการหลัก"
+
+#: wp-guesthouse-reservation-form.php:166
+msgid "Add New Room"
+msgstr "เพิ่มห้องใหม่"
+
+#: wp-guesthouse-reservation-form.php:167
+#: wp-guesthouse-reservation-form.php:222
+msgid "Add New"
+msgstr "เพิ่มใหม่"
+
+#: wp-guesthouse-reservation-form.php:168
+msgid "New Room"
+msgstr "สร้างห้องใหม่"
+
+#: wp-guesthouse-reservation-form.php:169
+msgid "Edit Room"
+msgstr "แก้ไขห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:170
+msgid "Update Room"
+msgstr "ปรับปรุงห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:171
+msgid "View Room"
+msgstr "ดูองพัก"
+
+#: wp-guesthouse-reservation-form.php:172
+msgid "View Rooms"
+msgstr "ดูห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:173
+msgid "Search Room"
+msgstr "ค้นหาห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:174
+#: wp-guesthouse-reservation-form.php:229
+msgid "Not found"
+msgstr "ไม่พบ"
+
+#: wp-guesthouse-reservation-form.php:175
+#: wp-guesthouse-reservation-form.php:230
+msgid "Not found in Trash"
+msgstr "ไม่พบในถังขยะ"
+
+#: wp-guesthouse-reservation-form.php:176
+#: wp-guesthouse-reservation-form.php:231
+msgid "Featured Image"
+msgstr "ภาพหน้าบทความ"
+
+#: wp-guesthouse-reservation-form.php:177
+#: wp-guesthouse-reservation-form.php:232
+msgid "Set featured image"
+msgstr "กำหนดภาพหน้าบทความ"
+
+#: wp-guesthouse-reservation-form.php:178
+#: wp-guesthouse-reservation-form.php:233
+msgid "Remove featured image"
+msgstr "ลบภาพหน้าบทความ"
+
+#: wp-guesthouse-reservation-form.php:179
+#: wp-guesthouse-reservation-form.php:234
+msgid "Use as featured image"
+msgstr "ใช้เป็นภาพหน้าบทความ"
+
+#: wp-guesthouse-reservation-form.php:180
+#: wp-guesthouse-reservation-form.php:235
+msgid "Insert into item"
+msgstr "เพิ่มเข้าไปในรายการ"
+
+#: wp-guesthouse-reservation-form.php:181
+#: wp-guesthouse-reservation-form.php:236
+msgid "Uploaded to this item"
+msgstr "อัปโหลดไปยังรายการนี้"
+
+#: wp-guesthouse-reservation-form.php:182
+msgid "Rooms list"
+msgstr "รายการห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:183
+msgid "Rooms list navigation"
+msgstr "รายการห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:184
+#: wp-guesthouse-reservation-form.php:239
+msgid "Filter items list"
+msgstr "กรองรายการ"
+
+#: wp-guesthouse-reservation-form.php:188
+msgid "Room list"
+msgstr "รายการห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:213
+msgctxt "Post Type General Name"
+msgid "Reservations"
+msgstr "การสำรองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:214
+msgctxt "Post Type Singular Name"
+msgid "Reservation"
+msgstr "การสำรองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:215
+#: wp-guesthouse-reservation-form.php:216
+#: wp-guesthouse-reservation-form.php:242
+msgid "Reservation"
+msgstr "การสำรองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:217
+msgid "Item Archives"
+msgstr "คลังรายการ"
+
+#: wp-guesthouse-reservation-form.php:218
+msgid "Item Attributes"
+msgstr "คุณสมบัติ"
+
+#: wp-guesthouse-reservation-form.php:219
+msgid "Parent Item:"
+msgstr "รายการหลัก:"
+
+#: wp-guesthouse-reservation-form.php:220
+msgid "All Items"
+msgstr "รายการทั้งหมด"
+
+#: wp-guesthouse-reservation-form.php:221
+msgid "Add New Item"
+msgstr "เพิ่มรายการใหม่"
+
+#: wp-guesthouse-reservation-form.php:223
+msgid "New Item"
+msgstr "รายการใหม่"
+
+#: wp-guesthouse-reservation-form.php:224
+msgid "Edit Item"
+msgstr "แก้ไขรายการ"
+
+#: wp-guesthouse-reservation-form.php:225
+msgid "Update Item"
+msgstr "แก้ไขรายการ"
+
+#: wp-guesthouse-reservation-form.php:226
+msgid "View Item"
+msgstr "ดูรายการ"
+
+#: wp-guesthouse-reservation-form.php:227
+msgid "View Items"
+msgstr "ดูรายการ"
+
+#: wp-guesthouse-reservation-form.php:228
+msgid "Search Item"
+msgstr "ค้นหารายการ"
+
+#: wp-guesthouse-reservation-form.php:237
+msgid "Items list"
+msgstr "จำนวนรายการ"
+
+#: wp-guesthouse-reservation-form.php:238
+msgid "Items list navigation"
+msgstr "จำนวนรายการ"
+
+#: wp-guesthouse-reservation-form.php:243
+msgid "Use for keep data from reservation form"
+msgstr "ใช้สำหรับเก็บข้อมูลจากแบบฟอร์มการสำรองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:465
+msgid "Reservation Form"
+msgstr "แบบฟอร์มจองห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:468
+msgid "Data has recieved"
+msgstr "ได้รับข้อมูลแล้ว"
+
+#: wp-guesthouse-reservation-form.php:476
+#: wp-guesthouse-reservation-form.php:478
+msgid "Firstname - Lastname"
+msgstr "ชื่อ-นามสกุล"
+
+#: wp-guesthouse-reservation-form.php:482
+#: wp-guesthouse-reservation-form.php:484
+msgid "Email"
+msgstr "อีเมล์"
+
+#: wp-guesthouse-reservation-form.php:488
+#: wp-guesthouse-reservation-form.php:490
+msgid "Mobile"
+msgstr "มือถือ"
+
+#: wp-guesthouse-reservation-form.php:494
+#: wp-guesthouse-reservation-form.php:496
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: wp-guesthouse-reservation-form.php:500
+msgid "Adult"
+msgstr "ผู้ใหญ่"
+
+#: wp-guesthouse-reservation-form.php:512
+msgid "Child"
+msgstr "เด็ก ๆ"
+
+#: wp-guesthouse-reservation-form.php:524
+msgid "Room Type"
+msgstr "ประเภทห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:527
+msgid "Select room type"
+msgstr "เลือกประเภทห้องพัก"
+
+#: wp-guesthouse-reservation-form.php:535
+msgid "More special"
+msgstr "เพิ่มเติม"
+
+#: wp-guesthouse-reservation-form.php:541
+#: wp-guesthouse-reservation-form.php:543
+msgid "Checkin Date"
+msgstr "วันที่เช็คอิน"
+
+#: wp-guesthouse-reservation-form.php:547
+#: wp-guesthouse-reservation-form.php:549
+msgid "Checkout Date"
+msgstr "วันที่เช็คเอ้าท์"
+
+#: wp-guesthouse-reservation-form.php:557
+msgid "Submit"
+msgstr "ส่งข้อมูล"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Guesthouse Reservation Form"
+msgstr "แบบฟอร์มจอง WP Guesthouse"
+
+#. Description of the plugin/theme
+msgid "Easy generate reservation form for guesthouse, hotel business"
+msgstr "สร้างแบบฟอร์มการสำรองห้องพักเกสเฮ้าท์, โรงแรม ง่ายและรวดเร็ว"
+
+#. Author of the plugin/theme
+msgid "BoostPress"
+msgstr "BoostPress"
+
+#. Author URI of the plugin/theme
+msgid "http://boostpress.com"
+msgstr "http://boostpress.com"
